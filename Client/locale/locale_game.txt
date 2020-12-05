@@ -1,0 +1,1 @@
+BUFF_AFFECT_REMOVE_QUESTION	Are you sure you want to remove %s?
